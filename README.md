@@ -1,7 +1,7 @@
 # Forum API
 
 Projeto de uma **API REST para Fórum Online**, construída em Java com Spring Boot e módulos do Spring Framework.  
-Todo o código foi desenvolvido como prática dos cursos da [Alura](https://cursos.alura.com.br/course/spring-boot-api-rest), ministrados por [Rodrigo Ferreira](https://www.linkedin.com/in/rcaneppele).
+
 
 ---
 
